@@ -14,10 +14,9 @@ Install on your Windows PC or laptop and start to mining into your email account
 
 ·Dynamically switches algorithms to profitable ones for high yields
 # Products
-![ygytpng](https://i.loli.net/2018/12/29/5c274b0a84539.png)
 
-https://i.loli.net/2018/12/29/5c2746cbbcbfb.png
-https://i.loli.net/2018/12/29/5c2746ee2798b.jpg
+![yz.png](https://i.loli.net/2018/12/29/5c274b6819b62.png)
+![gj.jpg](https://i.loli.net/2018/12/29/5c274b8d5d451.jpg)
 # Payments
 BTC payments withdraw after you initiate. You have access to income stats, updated every day. You can check here:
 http://hash.fish/personal.html
